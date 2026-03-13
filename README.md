@@ -21,7 +21,6 @@ Unlike the performance-based CKA/CKAD, **KCNA is multiple-choice**, testing your
 
 * **Format:** 60 Multiple-choice questions
 * **Duration:** 90 minutes
-* **Cost:** ~$250 USD
 * **Passing Score:** 75%
 * **Validity:** 3 Years
 * **Prerequisites:** None (though basic Linux/IT concepts are very helpful)
